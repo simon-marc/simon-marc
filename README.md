@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, Javascript and Python !**
 
-- 📫 How to reach me **simon.marc@laplateforme.io**
+- 📫 How to reach me **simon.marc13001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
