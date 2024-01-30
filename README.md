@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Marc</h1>
-<h3 align="center">I'm a passionate student at LaPlateforme_ !</h3>
+<h3 align="center">I'm a passionate student in Cybersecurity :</h3>
 
 - 🔭 I’m currently working on **a football stats app**
 
